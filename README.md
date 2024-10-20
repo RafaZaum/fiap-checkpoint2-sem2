@@ -70,3 +70,9 @@ docker run -d \
 - https://www.baeldung.com/spring-data-jpa-projections
 - https://www.baeldung.com/spring-jpa-like-queries
 
+## Integrantes
+
+93432 - João Pedro Marson
+92876 - Rafael de Lima Souza
+
+
